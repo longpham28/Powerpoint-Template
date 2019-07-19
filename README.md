@@ -1,4 +1,4 @@
 # Powerpoint Slide Templates Collection
 
-## Aqua Gree
-![Aqua Green](/images/aqua_green.png)
+## Aqua Green
+<img src="/images/aqua_green.png" width=800 height=600>
